@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Anthony — Future SOC Analyst (Blue Team)
 
-<!--
-**anthonyw-infosec/anthonyw-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Goal:** AZ-900 → Security+ → SOC internship by Summer 2026  
+🔧 **Tools:** Azure, Sentinel, Splunk, Linux, Nessus  
+📚 **Current Focus:** Azure labs, Security+ notes, SIEM dashboards
 
-Here are some ideas to get you started:
+## 🔐 Certifications
+- AZ-900 — scheduled
+- Security+ — in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **cyber-lab** — Azure & SOC labs (Sentinel, storage, RBAC)
+- **securityplus-notes** — study notes + mini-labs
+- **cybersecurity-vm-setup** — blue-team VM with tools
+
+## 📬 Connect
+- LinkedIn: https://www.linkedin.com/in/anthony-williams-680406378/
+- GitHub: github.com/anthonyw-infosec
